@@ -11,7 +11,7 @@ role: Postdoctoral scholar in Department of Information Engineering @ CUHK
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The Chinese University of Hong Kong
-  url: https://www.cuhk.edu.hk/chinese/index.html
+  url: https://www.cuhk.edu.hk
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ran Li is currently a postdoctoral scholar in the Department of Information Engineering at CUHK, working with Prof. Ying-Jun (Angela) Zhang.
@@ -66,4 +66,4 @@ email: "ranli@ie.cuhk.edu.hk"
 highlight_name: true
 ---
 
-Jiawei Zhang is currently a postdoctoral scholar in the Department of Information Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk), working with [Prof. Ying-Jun (Angela) Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). He obtained the Ph.D. degree in Computer and Information Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn), with an advisory of [Prof. Chuan Huang](https://sse.cuhk.edu.cn/faculty/huangchuan). Previously, he obtained the B.Eng. in Communication Engineering (Yingcai Honors College) from the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn).
+Ran Li is currently a postdoctoral scholar in the Department of Information Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk), working with [Prof. Ying-Jun (Angela) Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). He obtained the Ph.D. degree in Computer and Information Engineering from [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn), with an advisory of [Prof. Chuan Huang](https://sse.cuhk.edu.cn/faculty/huangchuan). Previously, he obtained the B.Eng. in Communication Engineering (Yingcai Honors College) from the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn).
