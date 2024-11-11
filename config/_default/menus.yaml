@@ -16,33 +16,33 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: News
-    url: '#news'
-    weight: 40
+  # - name: News
+  #   url: '#news'
+  #   weight: 40
   - name: Research Topics
     url: '#interest'
     weight: 41
-  - name: Prospective Students
-    url: '#students'
-    weight: 42
+  # - name: Prospective Students
+  #   url: '#students'
+  #   weight: 42
   - name: Recent Publications
     url: '#publications'
     weight: 50
   - name: Preprint Papers
     url: '#preprints'
     weight: 51
-  - name: Teaching Experience
-    url: '#teaching'
-    weight: 58
-  - name: Awards
-    url: '#awards'
-    weight: 59
+  # - name: Teaching Experience
+  #   url: '#teaching'
+  #   weight: 58
+  # - name: Awards
+  #   url: '#awards'
+  #   weight: 59
   - name: Contact
     url: '#contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-    url: uploads/JWZhangCV0507.pdf
-    weight: 70
+  # - name: CV
+  #   url: uploads/JWZhangCV0507.pdf
+  #   weight: 70
